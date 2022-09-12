@@ -3,6 +3,7 @@ UI Automation using Selenium
 
 How to Run
 - Download Repositary.
+- Remove the branch name(-master) from pojrct folder 
 - open project in eclipse as a general project
 - Add TestNG in eclipse
 - Add external selenium standalon 4.4.0 jar
